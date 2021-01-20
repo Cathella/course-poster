@@ -1,0 +1,40 @@
+body {
+  font-family: sans serif;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+  background: rebeccapurple;
+  color: white;
+  padding: 3em 5em;
+}
+
+h1 {
+  letter-spacing: -3px;
+}
+
+.primary {
+  font-size: 50px;
+} 
+
+.secondary {
+  color: aquamarine;
+  font-size: 35px;
+}
+
+button {
+  height: 50px;
+  font-family: sans-serif;
+  margin-bottom: 2em;
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 0 2.5em;
+  margin-right: 1em;
+}
+
+.in-person {
+  background: #cf6fd8;
+  border: 1px solid #cf6fd8;
+}
