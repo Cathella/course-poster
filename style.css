@@ -9,7 +9,7 @@ body {
 .container {
   width: 60%;
   margin: 0 auto;
-  background: rebeccapurple;
+  background: black;
   color: white;
   padding: 4em 5em;
 }
@@ -27,7 +27,7 @@ h1 {
 
 .secondary {
   color: aquamarine;
-  font-size: 35px;
+  font-size: 28px;
   font-weight: normal;
 }
 
